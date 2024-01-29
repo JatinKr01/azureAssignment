@@ -1,0 +1,4 @@
+com\example\azureAssignment\repo\ProductRepo.class
+com\example\azureAssignment\AzureAssignmentApplication.class
+com\example\azureAssignment\controller\ProductController.class
+com\example\azureAssignment\entity\Product.class
